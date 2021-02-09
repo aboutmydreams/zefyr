@@ -29,7 +29,7 @@ dependencies:
 
 dependency_overrides:
   notus:
-    path: ../../notus
+    git: https://github.com/aboutmydreams/notus.git
 
 dev_dependencies:
   flutter_test:
